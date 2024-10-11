@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elombe I. Calvert
 =========================================================================================================================================
 
-Data Scientist
+Research Data Scientist
 --------------
 
 As a Medical Doctor and Data Scientist with a background in Clinical Informatics, Bioinformatics, Deep Learning, and Computer Vision, I am highly skilled in using computational techniques to improve healthcare.
 
-* 🌍  I'm based in Boston, Mass General Hospital, Harvard Medical School
+* 🌍  I'm based in Boston, Beth Israel Deaconess Medical Center, Harvard Medical School
 * ✉️  You can contact me at [elombecalvert@alumni.harvard.edu](mailto:elombecalvert@alumni.harvard.edu)
-* 🧠  I'm learning approaches to analyze EEG & Eye tracking data
+* 🧠  I'm learning approaches to analyze Digital Phenotyping Data
 * 🤝  I'm open to collaborating on Machine learning projects for Psychiatry
 * ⚡  I absolutely love red pandas
 
